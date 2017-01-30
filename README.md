@@ -16,7 +16,7 @@ TopCoder SRM 548-599 Div. 1
 |  554  | :ok_hand:          | :ok_hand:          | :poop:             |
 |  555  |                    |                    |                    |
 |  556  |                    |                    |                    |
-|  557  |                    |                    |                    |
+|  557  |                    | :revolving_hearts: |                    |
 |  558  |                    |                    |                    |
 |  559  |                    |                    |                    |
 |  560  |                    |                    |                    |
