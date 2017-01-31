@@ -21,7 +21,7 @@ TopCoder SRM 548-599 Div. 1
 |  559  |                    |                    |                    |
 |  560  |                    | :ok_hand:          |                    |
 |  561  |                    | :ok_hand:          |                    |
-|  562  |                    | :ok_hand:          |                    |
+|  562  |                    | :ok_hand:          | :sleepy:           |
 |  563  |                    |                    |                    |
 |  564  |                    |                    |                    |
 |  565  | :smiling_imp:      | :accept:           | :sweat:            |
