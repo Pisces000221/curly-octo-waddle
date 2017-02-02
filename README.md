@@ -18,7 +18,7 @@ TopCoder SRM 548-599 Div. 1
 |  556  |                    |                    |                    |
 |  557  |                    | :revolving_hearts: |                    |
 |  558  |                    |                    |                    |
-|  559  |                    |                    |                    |
+|  559  |                    | :relieved:         |                    |
 |  560  |                    | :ok_hand:          |                    |
 |  561  |                    | :ok_hand:          |                    |
 |  562  |                    | :ok_hand:          | :sleepy:           |
