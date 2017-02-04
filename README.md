@@ -29,7 +29,7 @@ TopCoder SRM 548-599 Div. 1
 |  567  |                    |                    |                    |
 |  568  | :sweat:            | :sunglasses:       |                    |
 |  569  |                    | :ok_hand:          |                    |
-|  570  |                    |                    |                    |
+|  570  |                    | :poop:             |                    |
 |  571  |                    | :books:            |                    |
 |  572  |                    |                    |                    |
 |  573  |                    |                    |                    |
