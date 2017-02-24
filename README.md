@@ -10,7 +10,7 @@ TopCoder SRM 548-599 Div. 1
 |  548  | :ok_hand:          | :relieved:         |                    |
 |  549  |                    |                    |                    |
 |  550  |                    | :innocent:         |                    |
-|  551  | :ok_hand:          |                    |                    |
+|  551  | :ok_hand:          | :+1:               |                    |
 |  552  |                    |                    |                    |
 |  553  |                    |                    |                    |
 |  554  | :ok_hand:          | :ok_hand:          | :poop:             |
