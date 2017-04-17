@@ -27,7 +27,7 @@ TopCoder SRM 548-599 Div. 1
 |  565  | :smiling_imp:      | :accept:           | :sweat:            |
 |  566  |                    | :joy:              |                    |
 |  567  |                    |                    |                    |
-|  568  | :sweat:            | :sunglasses:       |                    |
+|  568  | :sweat:            | :sunglasses:       | :no_mouth:         |
 |  569  |                    | :ok_hand:          |                    |
 |  570  |                    | :poop:             |                    |
 |  571  |                    | :books:            |                    |
