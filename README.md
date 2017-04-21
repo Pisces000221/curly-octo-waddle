@@ -34,7 +34,7 @@ TopCoder SRM 548-599 Div. 1
 |  572  |                    | :accept:           |                    |
 |  573  |                    |                    |                    |
 |  574  |                    |                    |                    |
-|  575  |                    |                    |                    |
+|  575  |                    | :arrow_right_hook: |                    |
 |  576  |                    |                    |                    |
 |  577  | :ok_hand:          | :ok_hand:          | :smile:            |
 |  578  |                    |                    |                    |
