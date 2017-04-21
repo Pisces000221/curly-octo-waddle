@@ -8,7 +8,7 @@ TopCoder SRM 548-599 Div. 1
 | SRM # |      　Easy　      |       Medium       |      　Hard　      |
 | :---: | :----------------: | :----------------: | :----------------: |
 |  548  | :ok_hand:          | :relieved:         |                    |
-|  549  |                    | :tophat:           |                    |
+|  549  | :tophat:           | :tophat:           |                    |
 |  550  |                    | :innocent:         |                    |
 |  551  | :ok_hand:          | :+1:               |                    |
 |  552  |                    | :pouch:            |                    |
