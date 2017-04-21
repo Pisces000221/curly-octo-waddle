@@ -35,7 +35,7 @@ TopCoder SRM 548-599 Div. 1
 |  573  |                    |                    |                    |
 |  574  |                    |                    |                    |
 |  575  |                    | :arrow_right_hook: |                    |
-|  576  |                    |                    |                    |
+|  576  |                    | :sweat_drops:      |                    |
 |  577  | :ok_hand:          | :ok_hand:          | :smile:            |
 |  578  |                    |                    |                    |
 |  579  |                    |                    |                    |
